@@ -1,6 +1,6 @@
 # PDF Protection Tool
 
-**By: Inlighn Tech**
+**By: Purab Awasthi**
 
 ## Overview
 
